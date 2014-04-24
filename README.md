@@ -2,4 +2,6 @@ CPSC-120-Maze
 =============
 
 
-Hello World!
+$ git add README
+$ git commit -m 'first commit'
+
